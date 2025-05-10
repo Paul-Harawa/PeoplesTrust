@@ -33,7 +33,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src="/src/assets/team/paul.jpg"
+                src= {new URL('/src/assets/team/paul.jpg', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
@@ -70,7 +70,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src="/src/assets/team/albert.jpg"
+                src={new URL('/src/assets/team/albert.jpg', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
@@ -107,7 +107,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src="/src/assets/team/alinafe.jpg"
+                src={new URL('/src/assets/team/alinafe.jpg', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
@@ -144,7 +144,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src="/src/assets/team/alinafe.jpg"
+                src={new URL('/src/assets/team/alinafe.jpg', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
@@ -180,7 +180,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src="/src/assets/team/allan.png"
+                src={new URL('/src/assets/team/allan.png', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
@@ -216,7 +216,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src="/src/assets/team/pluto.jpg"
+                src={new URL('/src/assets/team/pluto.jpg', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
