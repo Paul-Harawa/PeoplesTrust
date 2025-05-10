@@ -39,7 +39,7 @@ function Projects() {
           >
             <div class="relative h-64 overflow-hidden">
               <img
-                src="/src/assets/images/p1.jpg"
+                src={new URL('/src/assets/images/p1.jpg', import.meta.url).href}
                 alt="Card Image"
                 class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
