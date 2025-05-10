@@ -160,7 +160,7 @@ function About() {
 
                 </div>
                 <div className='md:w-1/4 h-auto'>
-                        <img src="/src/assets/images/new-logo.png" alt="" className=' border border-gray-50 border-x-[#FF9292] rounded-full ' />
+                        <img src={new URL('/src/assets/images/new-logo.png', import.meta.url).href} alt="" className=' border border-gray-50 border-x-[#FF9292] rounded-full ' />
                 </div>
             </div>
 
