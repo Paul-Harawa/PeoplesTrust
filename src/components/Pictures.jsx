@@ -7,35 +7,35 @@ import { useSwipeable } from "react-swipeable";
 const ImageGallery = () => {
   const images = [
     {
-      src: "./src/assets/images/p1.jpg",
+      src: new URL('/src/assets/images/p1.jpg', import.meta.url).href,
       text: "The Senior group Kumponda of  Traditional Authority Kapeni Blantyre along with his village chiefs has cerebrated and welcomed the coming of Peoples Trust organization in their area and promised their joint support for the organization cause.",
     },
     {
-      src: "./src/assets/images/1.jpg",
+      src: new URL('/src/assets/images/1.jpg', import.meta.url).href,
       text: "The Peoples Trust hold a focus group discussion with the senior group Kumponda and 12 chiefs of his village group along with beneficiaries and other stakeholders.  ",
     },
     {
-      src: "./src/assets/images/2.jpg",
+      src: new URL('/src/assets/images/2.jpg', import.meta.url).href,
       text: " Jalosi Mbeta, village Head man Kamwendo praised the organisation initiatives that it has taken special approach for older citizen’s lives to be changed completely.",
     },
     {
-      src: "./src/assets/images/3.jpg",
+      src: new URL('/src/assets/images/3.jpg', import.meta.url).href,
       text: "Apart from brief introduction of the organization by Mrs. Alinafe Tsirizani the Secretary of the organization, the chairman of the organization, Mr. Paul Ngwendema briefed details of the project to be implemented in group Kumponda, Traditional Authority Kapeni, Blantyre. The vision, approach and nature of the elderly social economic empowerment program were discussed.",
     },
     {
-      src: "./src/assets/images/4.jpg",
+      src: new URL('/src/assets/images/4.jpg', import.meta.url).href,
       text: "The Senior group Kumponda of  Traditional Authority Kapeni Blantyre along with his village chiefs has cerebrated and welcomed the coming of Peoples Trust organization in their area and promised their joint support for the organization cause.",
     },
     {
-      src: "./src/assets/images/5.jpg",
+      src: new URL('/src/assets/images/5.jpg', import.meta.url).href,
       text: "The Peoples Trust hold a focus group discussion with the senior group Kumponda and 12 chiefs of his village group along with beneficiaries and other stakeholders.",
     },
     {
-      src: "./src/assets/images/6.jpg",
+      src: new URL('/src/assets/images/6.jpg', import.meta.url).href,
       text: "Apart from brief introduction of the organization by Mrs. Alinafe Tsirizani the Secretary of the organization, the chairman of the organization, Mr. Paul Ngwendema briefed details of the project to be implemented in group Kumponda, Traditional Authority Kapeni, Blantyre. The vision, approach and nature of the elderly social economic empowerment program were discussed.",
     },
     {
-      src: "./src/assets/images/7.jpg",
+      src: new URL('/src/assets/images/7.jpg', import.meta.url).href,
       text: "Apart from brief introduction of the organization by Mrs. Alinafe Tsirizani the Secretary of the organization, the chairman of the organization, Mr. Paul Ngwendema briefed details of the project to be implemented in group Kumponda, Traditional Authority Kapeni, Blantyre. The vision, approach and nature of the elderly social economic empowerment program were discussed.",
     },
   ];
