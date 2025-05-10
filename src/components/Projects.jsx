@@ -11,7 +11,12 @@ import { MdOutlineCancel } from "react-icons/md";
 function Projects() {
   const [showPopup, setShowPopup] = useState(false);
 
-  const togglePopup = () => setShowPopup(!showPopup);
+  const togglePopup = () => {
+    setShowPopup(!showPopup);
+
+    // Disable scrolling when pop-up is active
+    document.body.style.overflow = showPopup ? "auto" : "hidden";
+  };
 
   return (
     <div className="h-auto bg-gray-100 pb-16 pt-10" id="projects">
