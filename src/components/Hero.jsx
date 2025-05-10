@@ -40,7 +40,7 @@ const Hero = () => {
               </div>
               <div className="py-1 text-justify ">
                 <p className="font-light text-md">
-                  People Trust is non-profit organization aimed to build a
+                  Peoples Trust is non-profit organization aimed to build a
                   resilient nation where senior citizens are counted and
                   empowered to live safe, active, health, successful and
                   satisfied life, and where orphaned and vulnerable children are
