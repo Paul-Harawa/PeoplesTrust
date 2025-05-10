@@ -144,7 +144,7 @@ function Team() {
           <div class="bg-black bg-opacity-30 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <div class="flex items-center">
               <img
-                src={new URL('/src/assets/team/alinafe.jpg', import.meta.url).href}
+                src={new URL('/src/assets/team/lucky.jpg', import.meta.url).href}
                 alt="Team Member"
                 class="w-16 h-16 rounded-full object-cover border border-blue-500"
               />
