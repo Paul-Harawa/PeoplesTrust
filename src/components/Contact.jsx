@@ -21,9 +21,14 @@ function Contact() {
 
              <div className="w-full flex flex-row justify-center pb-6">
 
-              <p className="text-gray-600 px-4 text-center w-10/12  ">
-                We are available 24/7. You can reach us via email, phone call, facebook, whatsapp, or by filling out the contact form below. We look forward to hearing from you!   
-              </p> 
+              <p className="text-gray-600 px-4 w-10/12  text-start">
+          We are available 24/7. You can reach us via email, phone call, facebook, whatsapp, or by filling out the contact form below. We look forward to hearing from you! <br /> <br />
+          <b>Physical address: </b>Blantyre, Lunzu trading along Ntenjera road,
+          just 20 meters after four ways junction. <br />
+          <b>Phone Number: </b>265 899 136 614
+          <br />
+          <b>Email: </b> <a href="mailto:peoplestrustmw@gmail.com">peoplestrustmw@gmail.com</a> 
+        </p>
             </div>
 
             <div className="h-auto">
