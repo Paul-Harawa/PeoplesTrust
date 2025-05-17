@@ -84,7 +84,7 @@ function Team() {
                           Certificate in Accounting.   <br /><br />
               <span className="font-light italic">
               <b>Contact</b>: +265 998 833 176 <br />
-              <b>Email</b>: Albertchavuta@gmail.com
+              <b>Email</b>: albertchavuta@gmail.com
               </span>
             </p>
             <div class="flex space-x-4 mt-4 justify-between">
