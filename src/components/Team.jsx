@@ -39,7 +39,7 @@ function Team() {
               />
               <div class="ml-4">
                 <h2 class="text-md font-bold text-gray-100">Mr. Paul Ngwendema</h2>
-                <p class="text-gray-200 text-sm">Chief executive Office</p>
+                <p class="text-gray-200 text-sm">Chief Executive Office</p>
               </div>
             </div>
             <p class="text-gray-100 mt-4 text-sm">
@@ -190,7 +190,7 @@ function Team() {
               </div>
             </div>
             <p class="text-gray-100 mt-4 text-sm">
-              Bachelor’s Degree in Disaster Risky Management.    <br /><br />
+              Bachelor’s Degree in Disaster Risk Management.    <br /><br />
               <span className="font-light italic">
               <b>Contact</b>: +265 991 383 674 <br />
               <b>Email</b>: allanaustin049@gmail.com 
