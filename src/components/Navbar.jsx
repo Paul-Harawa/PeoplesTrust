@@ -175,7 +175,7 @@ const Navbar = () => {
             </span>
             <h1 className="text-xl font-bold uppercase">
               <span className="text-[#f2b3b3] hover:text-white">Peoples</span>{" "}
-              <span> Trust</span>
+              <span> Welfare Trust</span>
             </h1>
           </a>
         </div>
