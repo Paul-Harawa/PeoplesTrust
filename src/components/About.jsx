@@ -85,7 +85,7 @@ function About() {
                 <p className='p-4 text-justify font-light text-md w-full bg-black bg-opacity-5 rounded-2xl'>
                     <b className='font-extrabold text-[#5285eb]' >Strategic Foundations </b><br />
                     <span className='font-normal'>Our conduct is shaped by the following values</span>  <br />
-                    <i>Table 1: Peoples Trust values and value statement </i> <br /><br />
+                    <i>Table 1: Peoples Welfare Trust values and value statement </i> <br /><br />
                       
                     <table className="border-collapse border border-gray-300 w-full">
                         <thead>
