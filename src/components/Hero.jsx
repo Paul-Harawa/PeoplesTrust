@@ -35,12 +35,12 @@ const Hero = () => {
                   />
                 </span>
                 <h1 className="text-2xl font-bold text-[#FF9292] uppercase">
-                  peoples trust
+                  peoples welfare trust
                 </h1>
               </div>
               <div className="py-1 text-justify ">
                 <p className="font-light text-md">
-                  Peoples Trust is a non-profit organization aimed to build a
+                  Peoples Welfare Trust is a non-profit organization aimed to build a
                   resilient nation where senior citizens are counted and
                   empowered to live safe, active, health, successful and
                   satisfied life, and where orphaned and vulnerable children are
