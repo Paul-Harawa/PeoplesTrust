@@ -55,7 +55,7 @@ function Projects() {
                 &nbsp;&nbsp;Blantyre, Malawi.
               </h3>
               <p class="text-gray-600 mt-2 font-normal text-justify">
-                The Peoples Trust organization is implementing the elderly
+                The Peoples Welfare Trust organization is implementing the elderly
                 social economic empowerment program. The program aimed to
                 contribute towards eradication of poverty among elderly people
                 living in group Kumponda, Traditional Authority Kapeni Blantyre
