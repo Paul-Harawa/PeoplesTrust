@@ -95,7 +95,7 @@ function Projects() {
                 Elderly Socio-Economic Empowerment Programme
               </h3>
               <p className="mt-4 text-gray-600 text-justify">
-                The Peoples Trust organization is implementing the elderly
+                The Peoples Welfare Trust organization is implementing the elderly
                 social economic empowerment program. The program aimed to
                 contribute towards eradication of poverty among elderly people
                 living in group Kumponda, Traditional Authority Kapeni Blantyre
