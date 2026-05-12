@@ -20,7 +20,6 @@ function App() {
        <About />
        <Projects />
        <ImageGallery />
-       <Team />
        <Contact />
        <Footer />
 
