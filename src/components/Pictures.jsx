@@ -8,11 +8,11 @@ const ImageGallery = () => {
   const images = [
     {
       src: new URL('/src/assets/images/p1.jpg', import.meta.url).href,
-      text: "The Senior group Kumponda of  Traditional Authority Kapeni Blantyre along with his village chiefs has cerebrated and welcomed the coming of Peoples Trust organization in their area and promised their joint support for the organization cause.",
+      text: "The Senior group Kumponda of  Traditional Authority Kapeni Blantyre along with his village chiefs has cerebrated and welcomed the coming of Peoples Welfare Trust organization in their area and promised their joint support for the organization cause.",
     },
     {
       src: new URL('/src/assets/images/1.jpg', import.meta.url).href,
-      text: "The Peoples Trust hold a focus group discussion with the senior group Kumponda and 12 chiefs of his village group along with beneficiaries and other stakeholders.  ",
+      text: "The Peoples Welfare Trust hold a focus group discussion with the senior group Kumponda and 12 chiefs of his village group along with beneficiaries and other stakeholders.  ",
     },
     {
       src: new URL('/src/assets/images/2.jpg', import.meta.url).href,
@@ -24,11 +24,11 @@ const ImageGallery = () => {
     },
     {
       src: new URL('/src/assets/images/4.jpg', import.meta.url).href,
-      text: "The Senior group Kumponda of  Traditional Authority Kapeni Blantyre along with his village chiefs has cerebrated and welcomed the coming of Peoples Trust organization in their area and promised their joint support for the organization cause.",
+      text: "The Senior group Kumponda of  Traditional Authority Kapeni Blantyre along with his village chiefs has cerebrated and welcomed the coming of Peoples Welfare Trust organization in their area and promised their joint support for the organization cause.",
     },
     {
       src: new URL('/src/assets/images/5.jpg', import.meta.url).href,
-      text: "The Peoples Trust hold a focus group discussion with the senior group Kumponda and 12 chiefs of his village group along with beneficiaries and other stakeholders.",
+      text: "The Peoples Welfare Trust hold a focus group discussion with the senior group Kumponda and 12 chiefs of his village group along with beneficiaries and other stakeholders.",
     },
     {
       src: new URL('/src/assets/images/6.jpg', import.meta.url).href,
