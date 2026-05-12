@@ -30,7 +30,7 @@ const Hero = () => {
                 <span className="text-green-600">
                   <img
                     className="w-10"
-                    src="/src/assets/images/logo.png"
+                    src={new URL('/src/assets/images/new-logo.png', import.meta.url).href}
                     alt=""
                   />
                 </span>
