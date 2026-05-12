@@ -20,7 +20,6 @@ const Navbar = () => {
       "about",
       "projects",
       "pictures",
-      "team",
       "contact",
     ];
     const scrollPosition = window.scrollY + 100;
