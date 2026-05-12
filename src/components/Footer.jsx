@@ -9,7 +9,7 @@ function Footer() {
           <a href="#home" className="flex flex-row hover:text-[#f2b3b3]">
             <span className="p-1"><img className="w-6" src={new URL('/src/assets/images/logo.png', import.meta.url).href} alt="" /></span>
             <h1 className="text-xl font-bold uppercase">
-              <span className="text-[#f2b3b3] hover:text-white">Peoples</span> <span> Trust</span>
+              <span className="text-[#f2b3b3] hover:text-white">Peoples</span> <span> Welfare Trust</span>
             </h1>
           </a>
         </div>
@@ -27,9 +27,6 @@ function Footer() {
           <a href="#pictures" class="hover:text-white">
             Pictures
           </a>
-          <a href="#team" class="hover:text-white">
-            Team
-          </a>
           <a href="#contact" class="hover:text-white">
             Contact
           </a>
@@ -38,7 +35,7 @@ function Footer() {
         </div>
 
         <div class="text-sm text-gray-100">
-          © 2025 NGO 265. All rights reserved.
+          © 2026 NGO 265. All rights reserved.
         </div>
       </div>
 
