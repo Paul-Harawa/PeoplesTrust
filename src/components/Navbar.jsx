@@ -170,7 +170,7 @@ const Navbar = () => {
         <div>
           <a href="#home" className="flex flex-row hover:text-[#f2b3b3]">
             <span className="p-1">
-              <img className="w-6" src={new URL('/src/assets/images/logo1.png', import.meta.url).href} alt="" />
+              <img className="w-6" src={new URL('/src/assets/images/new-logo.png', import.meta.url).href} alt="" />
             </span>
             <h1 className="text-xl font-bold uppercase">
               <span className="text-[#f2b3b3] hover:text-white">Peoples</span>{" "}
