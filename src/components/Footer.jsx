@@ -35,7 +35,7 @@ function Footer() {
         </div>
 
         <div class="text-sm text-gray-100">
-          © 2026 NGO 265. All rights reserved.
+          © 2026 Peoples Welfare Trust. All rights reserved.
         </div>
       </div>
 
